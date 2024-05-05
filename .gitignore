@@ -64,3 +64,12 @@ config/*.yml
 
 # System Files
 .DS_Store
+/.vs/Juice-shop/FileContentIndex/67800e75-0d85-45dc-bdd4-f8d02c0b67d5.vsidx
+/.vs/Juice-shop/FileContentIndex/134e5665-145f-4237-8060-56050ac0f232.vsidx
+/.vs/Juice-shop/v17/.wsuo
+/.vs/Juice-shop/v17/DocumentLayout.json
+/.vs/Juice-shop/v17/workspaceFileList.bin
+/.vs/Juice-shop/FileContentIndex/517def16-6e03-40e1-a6a3-18d6ede9ee94.vsidx
+/.vs/Juice-shop/FileContentIndex
+/.vs/CMakeWorkspaceSettings.json
+/.vs/slnx.sqlite
