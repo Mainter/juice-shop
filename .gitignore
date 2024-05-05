@@ -71,3 +71,5 @@ config/*.yml
 /.vs/Juice-shop/v17/workspaceFileList.bin
 /.vs/Juice-shop/FileContentIndex/517def16-6e03-40e1-a6a3-18d6ede9ee94.vsidx
 /.vs/Juice-shop/FileContentIndex
+/.vs/CMakeWorkspaceSettings.json
+/.vs/slnx.sqlite
